@@ -5,7 +5,7 @@ import random
 global frag
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'NzQzNTI1OTc2ODY4MTI2ODQw.XzV8hg.K8hLNuFGhY8YuHPzTbTZ90dzHDo'
+TOKEN = 'aaa'
 
 # 接続に必要なオブジェクトを生成
 client = discord.Client()
