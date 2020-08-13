@@ -6,6 +6,6 @@ DiscordBOTを作成後、Discord.pyをインストール
 ## rouletteBOT
 ルーレットをするBOT
 
-'python3 roulette_bot.py'
+`python3 roulette_bot.py`
 で実行後
 Discordのテキストチャンネルで/helpを入力するとマニュアルを表示
